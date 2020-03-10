@@ -1,3 +1,3 @@
-# Diplo-Modulo4
+# Práctica 1
 
-Repositorio que contiene todas las prácticas del Módulo 4 del Diplomado "Tecnicas Estadísticas y Minería de datos" impartido en la FES
+Práctica 1, exploración de datos, con tres datas diferentes.
