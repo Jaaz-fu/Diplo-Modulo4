@@ -1,3 +1,3 @@
-# Diplo-Modulo4
+# Práctica 2
 
-Repositorio que contiene todas las prácticas del Módulo 4 del Diplomado "Tecnicas Estadísticas y Minería de datos" impartido en la FES
+Práctica que consiste en realizar un código que nos diga que tan similares son los diferentes textos que se analizan calculado la disimilaridad y similaridad.
